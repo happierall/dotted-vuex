@@ -1,5 +1,5 @@
 # Dotted-Vuex
-###easy API for Vuex (Vue.js)
+###Easy API for Vuex (Vue.js)
 Without types, simple and fast to use (doted names and autoprefixed methods).
 
 
