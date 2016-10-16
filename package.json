@@ -1,0 +1,29 @@
+{
+  "name": "dotted-vuex",
+  "version": "1.0.0",
+  "description": "Better Vuex without types, simple and fast to use (dotted names and autoprefixed methods).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happierall/dotted-vuex.git"
+  },
+  "keywords": [
+    "dotted",
+    "vuex",
+    "easy",
+    "autoprefix",
+    "vue.js",
+    "huge",
+    "large",
+    "project"
+  ],
+  "author": "Ruslan Yanberdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happierall/dotted-vuex/issues"
+  },
+  "homepage": "https://github.com/happierall/dotted-vuex#readme"
+}
