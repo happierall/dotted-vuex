@@ -1,4 +1,4 @@
-# Super easy Dotted Vuex
+# Super easy Dotted Vuex (Vue.js)
 Better Vuex without types, simple and fast to use. (Doted names and autoprefixed methods).
 
 
