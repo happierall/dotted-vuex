@@ -1,9 +1,10 @@
-# Dotted-vuex - easy API for Vuex (Vue.js)
+# Dotted-Vuex
+###easy API for Vuex (Vue.js)
 Better Vuex without types, simple and fast to use
 (doted names and autoprefixed methods).
 
 
-##Example:
+###Example:
 ```javascript
 // Init module Todos
 const todos = {
@@ -66,7 +67,7 @@ export default {
 ```
 
 
-## How install (dirty hack)
+### How install (dirty hack)
 ```bash
 npm install --save dotted-vuex
 
