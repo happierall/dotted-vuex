@@ -1,6 +1,6 @@
 {
   "name": "dotted-vuex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Better Vuex without types, simple and fast to use (dotted names and autoprefixed methods).",
   "main": "dist/dotted-vuex.js",
   "scripts": {
