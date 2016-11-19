@@ -12,7 +12,7 @@ const todos = {
   },
 
   getters: {
-    all: ( state ) {
+    all ( state ) {
       return state.list
     }
   }
@@ -53,7 +53,7 @@ export default {
     },
 
     mounted() {
-      this.add( { title: "simle", user: this.firstUser } )
+      this.add( { title: "simple", user: this.firstUser } )
       console.log( this.all )
 
       // and other things:
