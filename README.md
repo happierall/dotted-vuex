@@ -66,7 +66,7 @@ export default {
 ```
 
 
-### How install (dirty hack)
+### How install
 ```bash
 npm install --save dotted-vuex
 
