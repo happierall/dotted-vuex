@@ -92,3 +92,5 @@ store = hack(store)
 
 export default store
 ```
+### License
+[MIT](http://opensource.org/licenses/MIT)
