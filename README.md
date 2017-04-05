@@ -1,9 +1,9 @@
 # Dotted-Vuex - Depreceted. (You should use vuex >= 2.1)
-###Easy API for Vuex (Vue.js)
+### Easy API for Vuex (Vue.js)
 Without types, simple and fast to use (doted names and autoprefixed methods)
 
 
-###Example:
+### Example:
 ```javascript
 // Init module Todos
 const todos = {
